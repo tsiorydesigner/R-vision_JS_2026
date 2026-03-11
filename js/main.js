@@ -50,22 +50,55 @@
 // console.log(capitaliserPremiereLettre("javascript")); // Affiche "Javascript"
 
 
-//Exercice 4 string 
-let greeting ="Hello, Papa ";
-let name = 'Alice';
-let message = `Coucou, ${name}!`;
+// //Exercice 4 string 
+// let greeting ="Hello, Papa ";
+// let name = 'Alice';
+// let message = `Coucou, ${name}!`;
 
-console.log(greeting);
-console.log(name);
-console.log(message);
+// console.log(greeting);
+// console.log(name);
+// console.log(message);
 
-console.log(greeting.length);
-console.log(greeting.toUpperCase());
-console.log(greeting + "Tsiory");
+// console.log(greeting.length);
+// console.log(greeting.toUpperCase());
+// console.log(greeting + "Tsiory");
 
 // Exercice 5 
 
+//Fonction pour vérifier si un nombre est pair ou impair
+// function estPairOuImpair(nombre) {
+//   if (nombre % 2 === 0) {
+//     return "pair";
+//   } else {
+//     return "impair";
+//   }
+// }
 
 
+// console.log(estPairOuImpair(12)); // Affiche "pair"
+// console.log(estPairOuImpair(2)); // Affiche "impair"
 
+// function carre(nombre) {
+//   return nombre * nombre;
+// }
+
+// console.log(carre(6)); // Affiche 25
+
+//exercice 6
+
+// Exemple simple avec des booléens en JavaScript
+
+let estVrai = true;
+let estFaux = false;
+
+console.log(estVrai);  
+console.log(estFaux);  
+
+
+let a = 5;
+let b = 10;
+
+console.log(a < b);  
+console.log(a > b);   
+console.log(a === 5);
 
