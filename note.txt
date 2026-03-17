@@ -1,1 +1,2 @@
 Types de données : string, number, boolean, array, object
+IA DEV : kilo code , claude , chatgpt
